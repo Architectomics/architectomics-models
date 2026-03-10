@@ -1,0 +1,5 @@
+stan/models/*.hpp
+stan/models/*.o
+stan/models/comparative_architecture_dynamics_v1
+outputs/
+profile.csv
